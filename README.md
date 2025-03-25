@@ -1,7 +1,7 @@
 # INET4031 Add Users Script
 
 ## Program Description
-The INET4031 Add Users Script automates the process of adding multiple users and assigning them to groups on a Linux system. This script replaces the manual use of commands like `useradd`, `passwd`, and `usermod`, streamlining user management and reducing the potential for human error.
+The INET4031 Add Users Script automates the process of adding multiple users and assigning them to groups on a Linux system. This script replaces the manual use of commands like useradd, passwd, and usermod, streamlining user management and reducing the potential for human error.
 
 ## Program User Operation
 
@@ -15,7 +15,7 @@ The input file should contain lines with the following five fields, separated by
 - **Password**: The user's password.
 - **Last Name**: The user's last name.
 - **First Name**: The user's first name.
-- **Groups**: A comma-separated list of groups the user should be added to, or `-` if no groups are needed.
+- **Groups**: A comma-separated list of groups the user should be added to, or - if no groups are needed.
 
 To skip a user, prepend the line with #.
 
