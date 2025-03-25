@@ -1,4 +1,4 @@
-# INET4031 Add Users Script
+k# INET4031 Add Users Script
 
 ## Program Description
 The INET4031 Add Users Script automates the process of adding multiple users and assigning them to groups on a Linux system. This script replaces manual use of commands like `useradd`, `passwd`, and `usermod`, streamlining user management.
@@ -25,3 +25,4 @@ To run the script:
 1. Make the script executable:
    ```bash
    chmod +x create-users.py
+
